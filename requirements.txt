@@ -23,7 +23,7 @@ rpds-py==0.10.0
 six==1.16.0
 sniffio==1.2.0
 starlette==0.19.1
-TA-Lib
+TA-Lib @ https://download.lfd.uci.edu/pythonlibs/archived/TA_Lib-0.4.24-cp39-cp39-win_amd64.whl
 toml==0.10.2
 tomli==2.0.1
 typing_extensions==4.2.0
